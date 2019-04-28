@@ -8,7 +8,7 @@ public class Main {
 	public void main(String[] args) {
 		SnakeKopf sk = new SnakeKopf();
 		sk.gibAusrichtungAus();
-		//Test coffee 2
+		//Test coffee 3
 	}
 
 }
